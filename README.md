@@ -1,3 +1,3 @@
 # Mini-Game-Among
 
-##Praticando o JavaScript no jogo feito pelo Cógigo Fonte (gabrielfrois)
+##Praticando o JavaScript no jogo feito pelo Código Fonte (gabrielfrois)
